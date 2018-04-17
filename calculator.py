@@ -1,7 +1,6 @@
 #Author: Prashant 
 #git: github.com/xprashantxx
 #mail: xprashantxx@gmail.com
-#Requirements: requests, BeautifulSoup
 
 '''Write your functions using the following
 --------------------------------------------
